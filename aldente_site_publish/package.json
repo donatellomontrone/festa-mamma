@@ -1,0 +1,11 @@
+{
+  "name": "al-dente-manila-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static website for Al Dente Pasta Bar in Forbestown BGC, Manila.",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel",
+    "deploy:prod": "vercel --prod"
+  }
+}
